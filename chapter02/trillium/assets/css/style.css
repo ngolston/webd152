@@ -1,0 +1,26 @@
+body {
+    background-color: #FBE7C6;
+}
+footer {
+    display: block;
+    padding: 20px;
+    background-color: #B4F8C8;
+}
+header{
+    display: block;
+    padding: 10px;
+    background-color: #B4F8C8;
+}
+nav {
+    margin-top: -20px;
+    display: block;
+    padding: 0 0 10px 10px;
+    background-color: #B4F8C8;
+}
+a {
+color: #FF45B5;
+font-size: large;
+}
+a:hover {
+    color: #FFAEBC
+}
